@@ -1,0 +1,49 @@
+[
+    {
+        "title": "producto prueba2",
+        "description": "asdasdasdasdas",
+        "price": 300,
+        "thumbnail": "sin imagen2",
+        "code": "abc122",
+        "stock": 45,
+        "id": 4
+    },
+    {
+        "title": "proteina",
+        "description": "suplemento",
+        "code": "PL0423",
+        "price": 3800,
+        "stock": 30,
+        "category": "gym",
+        "thumbnails": [
+            "protein_01",
+            "proteina.jpg"
+        ],
+        "status": true,
+        "id": 5
+    },
+    {
+        "title": "Heineken",
+        "description": "Cerveza",
+        "code": "PL07",
+        "price": 1206,
+        "status": true,
+        "stock": 80,
+        "category": "Bebida",
+        "thumbnails": [
+            "heineken.jpg",
+            "heineken2.jpg"
+        ],
+        "id": 6
+    },
+    {
+        "title": "taragui",
+        "description": "yerba",
+        "code": "JM08",
+        "price": 1121,
+        "status": true,
+        "stock": 30,
+        "category": "cocina",
+        "id": 7
+    }
+]
